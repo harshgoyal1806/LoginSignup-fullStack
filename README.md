@@ -42,8 +42,8 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- Inspired by **modern e-commerce websites** for simplicity and UX.  
-- Thanks to the creators of **React**, **Vite**, **Tailwind CSS**, and **React Icons** for amazing tools that make building this project fast and fun.  
+- Inspired by **modern Login and Signup** for simplicity and UX.  
+- Thanks to the creators of **React**, **Vite**, for amazing tools that make building this project fast and fun.  
 🌟  
 
 
