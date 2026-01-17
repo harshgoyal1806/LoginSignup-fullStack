@@ -34,32 +34,6 @@ The frontend is built using **React (Vite)**, and the backend is built using **N
 - bcrypt.js (password hashing)
 - Joi (schema validation)
 
----
-
-## 📁 Project Structure
-
-project-root/
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── routes/
-│ │ ├── styles/
-│ │ └── main.jsx
-│ ├── index.html
-│ └── vite.config.js
-│
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ ├── middleware/
-│ ├── validations/
-│ ├── server.js
-│ └── db.js
-│
-└── README.md
 
  ## 📄 License
 
